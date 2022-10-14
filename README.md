@@ -1,27 +1,30 @@
-# PlaystationStoreAngular
+<h1 align="center">
+  Playstation Store
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+<p align="center">
+  <a href="#">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">📝 License</a>
+</p>
 
-## Development server
+<p align="center">
+    <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/d7a6d4fe-ac07-4b2c-9041-f06196b6ff9d"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/d7a6d4fe-ac07-4b2c-9041-f06196b6ff9d.svg" alt="wakatime"></a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 💻 Projeto
 
-## Code scaffolding
+Projeto do curso "Recriando Playstation Store com Angular" da DIO.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Tecnologias
 
-## Build
+<p align="center">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📝 License
 
-## Running unit tests
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
