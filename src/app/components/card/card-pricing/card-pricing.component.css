@@ -35,6 +35,15 @@
     margin-right: 10px;
 }
 
-.card_pricing__value__money {}
+.card_pricing__value__money {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.card_pricing__value__money > p > img {
+    width: 12px;
+}
 
 .game-price {}
