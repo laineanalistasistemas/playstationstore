@@ -13,6 +13,8 @@
     <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/d7a6d4fe-ac07-4b2c-9041-f06196b6ff9d"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/d7a6d4fe-ac07-4b2c-9041-f06196b6ff9d.svg" alt="wakatime"></a>
 </p>
 
+![Preview](./src/assets/preview.jpg)
+
 ## 💻 Projeto
 
 Projeto do curso "Recriando Playstation Store com Angular" da DIO.
